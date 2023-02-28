@@ -1,3 +1,2 @@
 #GifExpertApp
-
-Repositorio del proyecto de GifExpertApp de React
+GifExpertApp repository from React Course on Udemy
